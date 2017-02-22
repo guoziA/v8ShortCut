@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "V8 short cut",
+    "version": "1.0",
+    "descript": "operate Firefox in a cool way",
+
+    "browser_action": {
+        "browser_style": true,
+        "default_popup": "popups/popup.html",
+        "default_icon": {
+            "32": "icon/shortcut32.png",
+            "16": "icon/shortcut16.png"
+        }
+    }
+}

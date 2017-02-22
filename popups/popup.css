@@ -1,0 +1,18 @@
+#key{
+    width: 150px;
+    text-align: center;
+    padding: 2px;
+}
+
+#des{
+    width: 250px;
+    text-align: center;
+}
+
+#searchText{
+    width: 350px;
+}
+
+#searchlbl{
+    margin-left: 10px;
+}
